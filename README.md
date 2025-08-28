@@ -1,5 +1,3 @@
-# elabs_probation
-
 # 🛍️ Fashion Boutique EDA Project
 
 Welcome to the **Fashion Boutique Exploratory Data Analysis (EDA)** project—an end-to-end analytical journey that converts raw boutique sales data into actionable retail insights using Python, Pandas and visualization libraries.
